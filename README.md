@@ -17,6 +17,21 @@ This project analyzes Amazon sales data using Power BI to provide insights into 
 - Top states by revenue contribution
 - Interactive filters (Date, Category, Country)
 
+## Dashboard Screenshots
+
+### Overall Dashboard View
+![Overall Dashboard](screenshot%20folder/amazon%20sales%20dashboard%20overview.PNG)
+
+### KPI Cards Section
+![KPI Cards](screenshot%20folder/KPI%20SECTION.PNG)
+
+### Chart Cards Section
+![Charts Section](screenshot%20folder/CHARTS%20SECTION.PNG)
+
+### Filters & Slicers
+![Filters and Slicers](screenshot%20folder/Slicers.PNG)
+
+
 ## Tools Used
 - Power BI
 - DAX
